@@ -22,3 +22,12 @@
   
 //   city('miami')
   
+
+
+// fetch('https://dog.ceo/api/breeds/image/random')
+//     .then(response => response.json())
+//     .then(randomDog => {
+//       let img = document.createElement('img');
+//       img.src = randomDog.message;
+//       document.body.append(img);
+//     });
